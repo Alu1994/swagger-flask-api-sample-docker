@@ -1,1 +1,2 @@
-# swagger-flask-api-sample-docker
+# swagger-flask-api-sample
+swagger-flask-api-sample
