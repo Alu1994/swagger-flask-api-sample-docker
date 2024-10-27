@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flasgger import Swagger
-from fodace import swagger_config, template
+from config import swagger_config, template
 
 app = Flask(__name__)
 swagger = Swagger(app, config=swagger_config, template=template)

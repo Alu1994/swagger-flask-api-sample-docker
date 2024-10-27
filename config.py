@@ -28,7 +28,7 @@ template = {
         "termsOfService": "http://google.com/",
         "version": "1.0.0"
     },
-    "host": "localhost:5000",
+    "host": "flask-swagger-api-ekhkdjguduhghdh8.brazilsouth-01.azurewebsites.net",
     "basePath": "/",
     "schemes": [
         "http",
